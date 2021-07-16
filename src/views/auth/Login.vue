@@ -1,6 +1,6 @@
 <template>
   <h1>Login Demo2</h1>
-  <h1>Logout Demo</h1>
+  <h1>Logout</h1>
 </template>
 
 <script lang="ts">
